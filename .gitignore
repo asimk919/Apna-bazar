@@ -1,0 +1,13 @@
+node_modules/
+data/
+uploads/*
+!uploads/.gitkeep
+.env
+*.log
+*.backup
+*.backup-*
+*.before-deploy
+backups/
+2500
+public/*.bak
+public/*.pre-products-*
